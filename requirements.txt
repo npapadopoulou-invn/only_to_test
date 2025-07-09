@@ -1,0 +1,4 @@
+#python==3.9.5
+tensorflow==2.11.0
+numpy==1.23.5
+matplotlib==3.7.5 #https://matplotlib.org/devdocs/devel/min_dep_policy.html
